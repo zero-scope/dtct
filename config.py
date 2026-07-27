@@ -17,4 +17,4 @@ STORAGE_ACCOUNT_KEY = "BksTRqbvMwRZefPna5ss7OyB5v9veH3NX0He50Zb1/kLZRun05YGZJxRl
 
 # SendGrid SMTP
 SENDGRID_API_KEY = "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"
-SMTP_FROM = "noreply@app.jti.com"
+SMTP_FROM = "noreply@jti.com"
