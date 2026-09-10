@@ -7,7 +7,7 @@ DB_USER = os.getenv("DB_USER", "svc-app-admin")
 DB_PASSWORD = "9qOmYDHjG5vnV6TpEadNQPuk"
 
 # Azure Service Principal for resource access
-AZURE_TENANT_ID = "705d07a3-2eea-4f3b-ab59-65ca29abeb26"
+AZURE_TENANT_ID = "705d07a3-2eea-4f3b-ab59-65ca29abeb260"
 AZURE_CLIENT_ID = "3f8a91c2-7d4e-4b5a-9c6f-1e2d3a4b5c6d"
 AZURE_CLIENT_SECRET = "~8Q~cZXCV21OB5umGFShygQNpiTH0zswRean8D"
 
